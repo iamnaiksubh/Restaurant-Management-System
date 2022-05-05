@@ -1,0 +1,9 @@
+root:root
+aman:pass
+suraj:pp
+raju:rastogi
+sasuke:uchiha
+qq:qq
+naruto:uzumaki
+yellowflash:yf
+kakashi:sensei
